@@ -1,11 +1,11 @@
-## Olá, eu sou o Lucas Bragagnolo 👋
+## 🛡️ Sobre Mim
 
 - Estudante de **Cibersegurança** em busca de transformar vulnerabilidades e códigos em aprendizado.
 - Apaixonado por **Offensive Security** e pelo desafio constante de entender como as coisas quebram para aprender a protegê-las.
 
 ---
+### 👾 Perfil
 
-### 🛡️ Sobre Mim
 * 🎓 Atualmente cursando Bacharelado em Cibersegurança (Previsão de formação: Julho/2026).
 * 🎯 Foco em $\color{red}{\mathbf{Pentesting}}$, $\color{green}{\mathbf{AppSec}}$ e $\color{orange}{\mathbf{Segurança\ Ofensiva}}$.
 * 💻 Desenvolvendo projetos práticos em AppSec e automação de scripts.
