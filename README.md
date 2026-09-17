@@ -7,7 +7,7 @@
 ### 👾 Perfil
 
 * 🎓 Bacharelado em Cibersegurança.
-* 🎯 Foco em $\color{red}{\mathbf{Pentesting}}$, $\color{green}{\mathbf{AppSec}}$ e $\color{orange}{\mathbf{Segurança\ Ofensiva}}$.
+* 🎯 Foco em $\color{red}{\mathbf{Red Team}}$, $\color{green}{\mathbf{AppSec}}$ e $\color{orange}{\mathbf{Segurança\ Ofensiva}}$.
 * 💻 Desenvolvendo projetos práticos em AppSec e automação de scripts.
 * 🛡️ Estudando para as certificações **$\color{red}{\mathbf{{CEH}}}$**, **$\color{yellow}{\mathbf{{DCPT}}}$** e **$\color{blue}{\mathbf{{SYCP}}}$**.
 * 📜 Praticando frequentemente em laboratórios práticos e salas no **TryHackMe.com**
