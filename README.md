@@ -6,7 +6,7 @@
 ---
 ### 👾 Perfil
 
-* 🎓 Atualmente cursando Bacharelado em Cibersegurança (Previsão de formação: Julho/2026).
+* 🎓 Bacharelado em Cibersegurança.
 * 🎯 Foco em $\color{red}{\mathbf{Pentesting}}$, $\color{green}{\mathbf{AppSec}}$ e $\color{orange}{\mathbf{Segurança\ Ofensiva}}$.
 * 💻 Desenvolvendo projetos práticos em AppSec e automação de scripts.
 * 🛡️ Estudando para as certificações **$\color{red}{\mathbf{{CEH}}}$**, **$\color{yellow}{\mathbf{{DCPT}}}$** e **$\color{blue}{\mathbf{{SYCP}}}$**.
